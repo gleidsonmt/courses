@@ -8,12 +8,13 @@
 
 --- Fazendo
 
-Hardware[20hs], Algoritmos
+Hardware[20hs], Algoritmos[fazendo], resolvendo desafios
+
 
 ## Dank Code
 
 -- Feitos --
-
+Ingles para Prgramadoes
 -- Fazendo --
 
 ## Udemy
@@ -22,10 +23,19 @@ Hardware[20hs], Algoritmos
 
 -- Fazendo --
 
+## SimpliLearn
+-- Fazendo --
+Java Certification course
+
 JavaFx [ Modulo 1. Introduction]
 
 ## Let code
 
-meta easy full
+meta easy full[feito]
+
+## GrassHopper
+Introdução a fundamentos1[feito], Introdução a fundamentos[feito],
+Introção a entrevistas[feito], Introdução a arrays[feito]
+
 
 
