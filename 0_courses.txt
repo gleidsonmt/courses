@@ -5,16 +5,18 @@
 
 --- Feitos --
 
+SQL, Algoritmos, Php, Hardware, JavaBasico, Poo
 
---- Fazendo
+--- ReFazendo --
 
 Hardware[20hs], Algoritmos[fazendo], resolvendo desafios
-
 
 ## Dank Code
 
 -- Feitos --
+
 Ingles para Prgramadoes
+
 -- Fazendo --
 
 ## Udemy
@@ -24,8 +26,14 @@ Ingles para Prgramadoes
 -- Fazendo --
 
 ## SimpliLearn
+
 -- Fazendo --
+
 Java Certification course
+
+## HackerRank
+
+-- Fazendo
 
 JavaFx [ Modulo 1. Introduction]
 
@@ -34,8 +42,23 @@ JavaFx [ Modulo 1. Introduction]
 meta easy full[feito]
 
 ## GrassHopper
+
+-- Feitos --
 Introdução a fundamentos1[feito], Introdução a fundamentos[feito],
 Introção a entrevistas[feito], Introdução a arrays[feito]
+
+## Mimo
+
+## Wise Up
+
+-- Fazendo --
+
+Intermediario 2
+
+-- Feitos --
+Basico 1
+Basico 2
+Intermediario 1
 
 
 
