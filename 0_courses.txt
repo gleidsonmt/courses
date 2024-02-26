@@ -65,5 +65,3 @@ Basico 1
 Basico 2
 Intermediario 1
 
-
-
