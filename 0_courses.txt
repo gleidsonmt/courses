@@ -52,18 +52,3 @@ Introção a entrevistas[feito], Introdução a arrays[feito]
 ## Khan Academy
 EF 1
 Algoritmos
-
-## Wise Up
-
--- Fazendo --
-
-Intermediario 2
-
--- Feitos --
-
-Basico 1
-Basico 2
-Intermediario 1
-
-
-
